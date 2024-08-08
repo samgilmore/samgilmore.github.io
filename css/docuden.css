@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-	color: #0f3528
+	color: #0452A0
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-	color: #0f3528
+	color: #0452A0
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -85,7 +85,7 @@ h2 {
 	#sideNav .navbar-brand .img-profile {
 		max-width: 10rem;
 		max-height: 10rem;
-		border: .5rem solid rgba(255, 255, 255, .2)
+		fill: #FFFFFF;
 	}
 
 	#sideNav .navbar-collapse {
@@ -138,49 +138,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-	background-color: #0f3528 !important
+	background-color: #0452A0 !important
 }
 
 .text-primary {
-	color: #0f3528 !important
+	color: #0452A0 !important
 }
 
 a {
-	color: #0f3528
+	color: #0452A0
 }
 
 a:active,
 a:focus,
 a:hover {
-	color: #0a3929
-}
-
-.right-align {
-    text-align: right;
-}
-  
-.left-align {
-    text-align: left;
-}
-  
-.experience-img {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 10px;
-}
-
-@media (max-width: 767px) {
-    .experience-img {
-        margin-right: 15px;
-    }
-  
-    .right-aligned-img {
-        margin-left: auto !important;
-        margin-right: 15px !important;
-    }
-
-    .mr-5-ss { 
-        margin-right: 5px !important;
-    }
+	color: #0452A0
 }
