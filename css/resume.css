@@ -184,3 +184,8 @@ a:hover {
         margin-right: 5px !important;
     }
 }
+
+.section-divider {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
