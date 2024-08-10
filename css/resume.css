@@ -11,6 +11,10 @@ body {
 	}
 }
 
+.light-green {
+	background-image: linear-gradient(to bottom right, #0f352816, #0f35280b);
+}
+
 h1,
 h2,
 h3,
@@ -164,10 +168,12 @@ a:hover {
 }
   
 .experience-img {
-    width: 300px;
-    height: 300px;
+	width: 75%;
     object-fit: cover;
     border-radius: 10px;
+	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
 }
 
 @media (max-width: 767px) {
